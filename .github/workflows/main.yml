@@ -1,6 +1,7 @@
 name: create env file
 on: [push]
 jobs:
+    runs-on: ubuntu-latest
     steps:
       - run: |
           touch .env
