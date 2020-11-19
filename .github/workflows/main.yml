@@ -4,6 +4,4 @@ jobs:
   add-env:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-          touch .env
-          echo REACT_APP_WEATHER_API_KEY=${{ secrets.REACT_APP_WEATHER_API_KEY }} >> .env
+      env: REACT_APP_WEATHER_API_KEY=${{ secrets.REACT_APP_WEATHER_API_KEY }}
