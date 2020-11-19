@@ -1,0 +1,4 @@
+ - name: create env file
+      run: |
+        touch .env
+        echo REACT_APP_WEATHER_API_KEY=${{ secrets.REACT_APP_WEATHER_API_KEY }} >> .env
