@@ -1,4 +1,5 @@
 # Simple React Weather App
+
 > React.js - Built with the [Open Weather API](https://openweathermap.org/api)
 
 A simple weather app that allows you to get current weather information, based on the city you enter.
@@ -23,7 +24,8 @@ npm start
 
 Konstantin Münster – [konstantin.digital](https://konstantin.digital) – [mail@konstantin.digital](mailto:mail@konstantin.digital)
 
-Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license. 
+Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BCnster&year=2019#license-mit) license.
+
 See ``LICENSE`` for more information.
 
 [https://github.com/konstantinmuenster](https://github.com/konstantinmuenster)

@@ -1,13 +1,13 @@
 {
   "name": "simple-react-js-weather-app",
-  "homepage": "http://konstantinmuenster.github.io/simple-react-js-weather-app",
+  "homepage": "https://rbew.yidajiabei.xyz/simple-react-js-weather-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "dateformat": "^3.0.3",
     "normalize.css": "^8.0.1",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "react-scripts": "3.0.1",
     "react-spinners": "^0.5.12"
   },
@@ -35,6 +35,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   }
 }
