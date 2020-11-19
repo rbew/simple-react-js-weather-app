@@ -1,5 +1,5 @@
 name: create env file
 jobs:
-  run: |
+  run:
     touch .env
     echo REACT_APP_WEATHER_API_KEY=${{ secrets.REACT_APP_WEATHER_API_KEY }} >> .env
